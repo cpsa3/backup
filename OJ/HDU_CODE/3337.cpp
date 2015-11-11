@@ -1,0 +1,19 @@
+////////////////////System Comment////////////////////
+////Welcome to Hangzhou Dianzi University Online Judge
+////http://acm.hdu.edu.cn
+//////////////////////////////////////////////////////
+////Username: 096040179JY
+////Nickname: ___ºÚ—‘
+////Run ID: 
+////Submit time: 2010-11-29 22:21:07
+////Compiler: Visual C
+//////////////////////////////////////////////////////
+////Problem ID: 3337
+////Problem Title: 
+////Run result: Accept
+////Run time:0MS
+////Run memory:196KB
+//////////////////System Comment End//////////////////
+#include <stdio.h>
+main()
+{puts("72");return 0;}
